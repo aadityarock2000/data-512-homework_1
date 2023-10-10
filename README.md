@@ -13,6 +13,9 @@ The objective of this project is to develop a Python script capable of reliably 
 
 ### Data Sources and Licenses:
 
+The Jupyter notebook has some parts from the example that was developed by Dr. David W. McDonald for use in DATA 512, a course in the UW MS Data Science degree program. This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). Revision 1.2 - August 14, 2023.
+
+
 #### API
 The data for this project is sourced from the Wikimedia API, which provides access to a wide range of information related to Wikipedia articles and their pageviews. Here are the links to the API documentation that is used to fetch the data.
 - [Pageviews API documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)
