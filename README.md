@@ -47,7 +47,7 @@ Here is the data source that is used as the base to generate the data, which con
 ##### Image files
 - **Max-Min-Avg.png**: This PNG image displays a graph illustrating the monthly page views of the most and least viewed articles across both mobile and desktop platforms.
 
-- **Top10PeakPageViews.png**: This PNG image presents a graph depicting the monthly page views of the top 10 articles with the highest peak monthly views.
+- **PeakPageViews.png**: This PNG image presents a graph depicting the monthly page views of the top 10 articles with the highest peak monthly views.
 
 - **FewestMonths.png**: This PNG image exhibits a graph showcasing the monthly page views of the top 10 articles with the shortest available data spans.
 
